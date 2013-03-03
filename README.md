@@ -3,7 +3,7 @@ IMAGE CRYPTO
 
 This program can make simple image crypto
 
-crypto.m = Main gui you can call 'Encoder' and 'Decoder' wiht it.
+crypto.m = Main gui you can call 'Encoder' and 'Decoder' with it.
 
 Encoder.m = Interface for imagEncoding.
 
